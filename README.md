@@ -25,9 +25,18 @@ A clean, modern, and cross-platform desktop password generator and locker applic
      - **☀️ Daylight Time (6:00 AM – 7:00 PM local time)**: Periodically rotates among vibrant daytime themes (**🌸 Pink**, **💜 Purple**, **🌊 Ocean Blue**).
    - Instant 1-click manual theme switcher in header (or press `Ctrl+T` / `Cmd+T`):
      - **🌸 Pink**: Soft light rose palette with warm pastel cards and magenta accents.
+     - <img width="852" height="914" alt="image" src="https://github.com/user-attachments/assets/aa5cc958-11d4-42d8-bf10-e6a4ba0f65de" />
+
      - **💜 Purple**: Regal, elegant lavender & purple palette with rich violet accents.
+     - <img width="852" height="914" alt="image" src="https://github.com/user-attachments/assets/853e6b58-6ecc-4b68-858b-75d06d59c1c4" />
+
+
      - **🌊 Ocean Blue**: Crisp, refreshing coastal palette with cyan, azure, and deep navy tones.
+     - <img width="852" height="914" alt="image" src="https://github.com/user-attachments/assets/6c26f67d-3750-4f44-8b08-68523d3ef6f8" />
+
      - **🌙 Warm Night**: Eye-friendly warm dark mode with espresso charcoal background, ivory typography, and golden amber accents.
+     - <img width="852" height="914" alt="image" src="https://github.com/user-attachments/assets/cecf487e-7cba-4d2e-8ea1-f1bed7ee3270" />
+
    - All modal dialogs and drop shadows dynamically adapt to the active theme.
 
 3. **🕒 Live Digital Clock & Timezone Badge (Dual-Deck Header)**
