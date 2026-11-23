@@ -1,0 +1,23 @@
+# Ignore password logs to protect privacy
+password_history.log
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# System and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.theme_cache
